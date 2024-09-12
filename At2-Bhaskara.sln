@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "At2-Bhaskara", "At2-Bhaskara\At2-Bhaskara.csproj", "{5DDD5E43-6C37-4D51-80C5-C61324425A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoTesteBhask", "CalculoTesteBhask\CalculoTesteBhask.csproj", "{5D740CDB-178F-4E9B-B913-0651C4D2E589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDD5E43-6C37-4D51-80C5-C61324425A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD5E43-6C37-4D51-80C5-C61324425A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD5E43-6C37-4D51-80C5-C61324425A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD5E43-6C37-4D51-80C5-C61324425A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D740CDB-178F-4E9B-B913-0651C4D2E589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D740CDB-178F-4E9B-B913-0651C4D2E589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D740CDB-178F-4E9B-B913-0651C4D2E589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D740CDB-178F-4E9B-B913-0651C4D2E589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80AFF0A3-87BA-4F2D-8910-4E9BB60C9646}
+	EndGlobalSection
+EndGlobal
